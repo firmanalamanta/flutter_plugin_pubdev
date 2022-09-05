@@ -16,10 +16,15 @@ Penambahan variable dan parameter bertujuan untuk menginisialisasi
 
 # Nomor 4
 ![Screenshot hello_world](images/yellow.png)
+
 Pada bagian ini menggunakan pemanggilan fungsi RedTextWidget, dimana pada fungsi tersebut dapat membatasi penggunaan lines
 
 ![Screenshot hello_world](images/green.png)
 aaaaa
+
+# Nomor 5
+![Screenshot hello_world](images/parameter1.png)
+![Screenshot hello_world](images/parameter2.png)
 
 
 

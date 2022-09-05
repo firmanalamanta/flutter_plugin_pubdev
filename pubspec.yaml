@@ -60,6 +60,8 @@ flutter:
   - images/autosizetext.png
   - images/green.png
   - images/yellow.png
+  - images/parameter1.png
+  - images/parameter2.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
