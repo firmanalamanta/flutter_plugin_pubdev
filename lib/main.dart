@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             Container(
             color: Colors.yellowAccent,
-            width: 50,
+            width: 200,
             child: const RedTextWidget(
                       text: 'You have pushed the button this many times:',
                     ),
