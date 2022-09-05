@@ -12,16 +12,17 @@ auto size text berfugsi mengubah ukuran text secara otomatis yang berada didalam
 flutter pub add auto_size_text digunakan untuk menambahkan package ke dalam project
 
 # Nomor 3
-Penambahan variable dan parameter bertujuan untuk menginisialisasi 
+Penambahan finalisasi variable dan parameter bertujuan untuk menginisialisasi penggunaan fungsi RedTextWidget
 
 # Nomor 4
 ![Screenshot hello_world](images/yellow.png)
 
-Pada bagian ini menggunakan pemanggilan fungsi RedTextWidget, dimana pada fungsi tersebut dapat membatasi penggunaan lines
+Pada bagian ini menggunakan pemanggilan fungsi RedTextWidget, dimana pada fungsi tersebut terdapat parameter maxlines yang digunakan membatasi penggunaan lines dan juga terdapat penggunaan parameter width=50 yang memungkinkan text akan ditampilkan dengan lebar sebesar 50 
 
 ![Screenshot hello_world](images/green.png)
 
-aaaaa
+Pada bagian ini tidak melakukan pemanggilan fungsi, hanya menampilkan text dengan width 100
+
 
 # Nomor 5
 ![Screenshot hello_world](images/parameter1.png)
